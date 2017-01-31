@@ -1,0 +1,7 @@
+# WICHTIG HINWEISS
+#testing=on WENN DIESE ZEILE (auch auskommentiert!!) enthalten ist, wird NUR DIE TEST-CA benutzt. für echte zertifikate MUSS SIE GELOESCHT WERDEN !!!
+
+# Aufbau: Pro Zeile je ein Zertifikat. Aber pro Zeile mehrere Domainnamen (Leerzeichen-getrennt) möglich für SAN-Zertifikate. Bsp:
+# mobil.example.com m.example.com mobile.example.com
+
+bf4edb8a.ngrok.io
